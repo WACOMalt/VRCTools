@@ -1,5 +1,5 @@
 # WACOMalt's VRCTools
-A few scripts to simplify some of the more annoying things VRchat does.
+A few scripts to simplify cleaning up some of the more annoying junk VRchat leaves around.
 
 MoveCacheLocation.bat - This lets you move the large cache directories from your C drive to somewhere else using a symlink. Currently hardcoded to move it to D:/Games/VRChat but this will be controllable in a coming update.
 
