@@ -13,3 +13,5 @@ echo moving old cache location to new location
 echo D|xcopy vrchat %vrcnew%\vrchat /O /X /E /H /K /Y
 rd /s /q "%USERPROFILE%\AppData\LocalLow\VRChat\vrchat"
 mklink /D vrchat %vrcnew%\vrchat
+echo Everything should be good, Press any key to exit!
+pause
